@@ -1,0 +1,1 @@
+Welcome to Groundwater Hydrology! We will have a few simple scripts to run that will help you either collect data or view model output. These will be run in python, but no prior knowledge of python is necessary.
